@@ -9,6 +9,13 @@
 
 <img src="https://komarev.com/ghpvc/?username=Artbsc1992" alt="Artbsc1992" />
 
+````bash
+> help --info
+> A gamer and bycicle  enthusianst who mainly programs in JavaScript and has recently ventured out into Ruby. Is
+> trying to build a thech career from scratch and look for new horizons to travel. Likes solving problems on hackerrank.
+> Currently an full time student at Microverse, learning more than just coding!
+````
+
 ```javascript
 const arturoHermida = {
   pronouns: "he" | "him",
