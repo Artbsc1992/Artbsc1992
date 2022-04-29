@@ -14,6 +14,7 @@ const arturoHermida = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, Ruby],
   tools: [React, Redux, OnRails],
+  editor: [VScode],
  
  challenge: "I am doing the #100DaysOfCode challenge focused on JavaScript"
 }
