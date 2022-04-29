@@ -27,7 +27,7 @@ const arturoHermida = {
 
 <p align="center">
 <a href="https://www.linkedin.com/in/arturo-hermida29" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@arturohermida-blue?style=flat&logo=linkedin"></a>
-<a href="https://https://twitter.com/Arturo_D_Rock" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Twitter-Arturo%20Hermida-blue?style=flat&logo=Twitter"></a>
+<a href="https://twitter.com/Arturo_D_Rock" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Twitter-Arturo%20Hermida-blue?style=flat&logo=Twitter"></a>
 <a href="mailto:ahpareja@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ahpareja@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
