@@ -11,9 +11,9 @@
 
 ````bash
 > help --info
-> A gamer and bycicle  enthusianst who mainly programs in JavaScript and has recently ventured out into Ruby. Is
-> trying to build a thech career from scratch and look for new horizons to travel. Likes solving problems on hackerrank.
-> Currently an full time student at Microverse, learning more than just coding!
+> A gamer and bicycle enthusiast who mainly programs in JavaScript and has recently ventured into Ruby. Is
+> trying to build a tech career from scratch and look for new horizons to travel? Likes solving problems on hackerrank.
+> Currently a full-time student at Microverse, learning more than just coding!
 ````
 
 ```javascript
