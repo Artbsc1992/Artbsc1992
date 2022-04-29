@@ -28,6 +28,6 @@ const arturoHermida = {
 <p align="center">
 <a href="https://www.linkedin.com/in/arturo-hermida29" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@arturohermida-blue?style=flat&logo=linkedin"></a>
 <a href="https://stackoverflow.com/users/8519896/anand-mainali?tab=profile" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-Anand%20Mainali-blue?style=flat&logo=stackoverflow"></a>
-<a href="mailto:ahpareja@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-anandmainali5@gmail.com-blue?style=flat&logo=gmail"></a>
+<a href="mailto:ahpareja@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ahpareja@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
