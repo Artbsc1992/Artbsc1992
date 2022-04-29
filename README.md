@@ -7,7 +7,7 @@
 > Full stack developer
 
 
-<img src="https://komarev.com/ghpvc/?username=anandmainali" alt="anandmainali" />
+<img src="https://komarev.com/ghpvc/?username=Artbsc1992" alt="Artbsc1992" />
 
 ```javascript
 const arturoHermida = {
@@ -21,12 +21,7 @@ const arturoHermida = {
 
 ### Github Stats
 
-[![Anand K. Mainali GitHub Stats](https://github-readme-stats.vercel.app/api?username=anandmainali&show_icons=true&count_private=true)](https://github.com/anandmainali)
-
-### Github Repos
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anandmainali&repo=PackageTemplate&show_owner=true)](https://github.com/anandmainali/PackageTemplate)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anandmainali&repo=Foods-Ecommerce&show_owner=true)](https://github.com/anandmainali/Foods-Ecommerce)
+[![Anand K. Mainali GitHub Stats](https://github-readme-stats.vercel.app/api?username=Artbsc1992&show_icons=true&count_private=true)](https://github.com/Artbsc1992)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
