@@ -8,9 +8,12 @@
 
 ````bash
 > help --info
-> A gamer and bicycle enthusiast who mainly programs in JavaScript and has recently ventured into Ruby, and is
-> trying to build a tech career from scratch and look for new horizons on this industry. 
-> Likes solving problems on hackerrank. Currently a full-time student at Microverse where is learning more than just coding!
+> A gamer and bicycle enthusiast who mainly programs in 
+> JavaScript and has recently ventured into Ruby, and is
+> trying to build a tech career from scratch 
+> and look for new horizons on this industry. 
+> Likes solving problems on hackerrank. 
+> Currently a full-time student at Microverse where is learning more than just coding!
 ````
 
 ```javascript
